@@ -66,7 +66,4 @@ public class BaseSetup {
         return driver;
     }
 
-
-
-
 }

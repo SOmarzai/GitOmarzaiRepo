@@ -26,7 +26,7 @@ Feature: Create Account
         | Juliana   | Martinez   | Female   | Single        | Mrs.     | 11/30/1994 |
         | Masooda  | Ahmad | Female   | Married      | Mrs.    | 10/27/1988 |
 
-@US_1
+
   Scenario Outline: Create primary account with existing email validate error message
 
     When Click on Create Primary Account Button

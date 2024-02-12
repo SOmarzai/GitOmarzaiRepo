@@ -13,7 +13,7 @@ Feature: Validate Plans
   row of data is present.
 
     Then validate table row count to be 4
- @FR_1
+
     Scenario: Navigate to Customer Service Portal with valid CSR credentials and navigate to Plans Page. Then validate
     Create Date is today's date in (EST Time zone) and Date Expire is a day after (EST Time Zone)
 
